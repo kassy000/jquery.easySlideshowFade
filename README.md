@@ -1,0 +1,2 @@
+# jquery.easySlideshowFade
+Jquery ImageSlideShow
